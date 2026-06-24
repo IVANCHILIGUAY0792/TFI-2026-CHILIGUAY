@@ -1,1 +1,12 @@
 # TFI-2026-CHILIGUAY
+## Trabajo Intregador Final
+## Integrantes del equipo
+IVAN LEONARDO CHILIGUAY
+## Carrera
+TEC. UNIVERSITARIA EN  TELECOMUNICACIONES
+## Materia
+PROGRAMACIÓN
+## Programa Utilizado
+PseInt
+## Descripción
+TRABAJO INTEGRADOR FINAL REALIZADOS EN PROGRAMAS PSEINT Y PHYTON.-
